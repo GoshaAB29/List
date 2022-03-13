@@ -9,12 +9,13 @@
 2) go to project folder
 >cd List
 
-3) write in console
+3) write in console (using my main)
 >make
 
 or
 
->g++ main.o list.o graphviz_dump\graph_dump.o -o list
+>g++ your_program.cpp list.cpp graphviz_dump\graph_dump.cpp
+
 
 4) run project
 >./list
