@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1647123433 source:c:\projects\list\main.cpp
+	"list.h"
+
+1647122421 c:\projects\list\list.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1647185683 source:c:\projects\list\list.cpp
+	"list.h"
+	"./graphviz_dump/graph_dump.h"
+	<assert.h>
+
+1644755124 source:c:\projects\list\graphvizdump\graph_dump.c
+
+1644755064 c:\projects\list\graphvizdump\graph_dump.h
+
+1644755124 source:c:\projects\list\graphviz damp\graph_dump.c
+
+1644780134 source:c:\projects\list\graphviz dump\graph_dump.c
+	"graph_dump.h"
+
+1647036363 c:\projects\list\graphviz dump\graph_dump.h
+	"../list.h"
+	<stdio.h>
+
+1637168167 c:\projects\list\stack.h
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<math.h>
+	<ctype.h>
+	"stack_settings.h"
+
+1647111503 source:c:\projects\list\graphviz dump\graph_dump.cpp
+	"graph_dump.h"
+	"../list.h"
+
+1647036363 c:\projects\list\graphviz_dump\graph_dump.h
+	"../list.h"
+	<stdio.h>
+
+1647114634 source:c:\projects\list\graphviz_dump\graph_dump.cpp
+	"graph_dump.h"
+	"../list.h"
+
