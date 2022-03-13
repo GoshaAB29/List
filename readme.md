@@ -29,5 +29,5 @@ or
 
 # Example of visual dump
 <p align="center">
-<img src="https://github.com/GoshaAB29/List/dump.png"
+<img src="https://github.com/GoshaAB29/List/blob/master/dump.png"
 </p>
